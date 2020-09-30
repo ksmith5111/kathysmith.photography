@@ -1,30 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>action on Kathy Smith | Photography</title>
-    <link>https://inspiring-pike-52c512.netlify.com/categories/action/</link>
-    <description>Recent content in action on Kathy Smith | Photography</description>
+    <title>Action on Kathy Smith | Photography</title>
+    <link>https://kathysmith.photography/categories/action/</link>
+    <description>Recent content in Action on Kathy Smith | Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://inspiring-pike-52c512.netlify.com/categories/action/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kathysmith.photography/categories/action/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Nittany Lion</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/nittany-lion/</link>
+      <title>Battle Lost</title>
+      <link>https://kathysmith.photography/photos/battle-lost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/nittany-lion/</guid>
+      <guid>https://kathysmith.photography/photos/battle-lost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child</title>
+      <link>https://kathysmith.photography/photos/child/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/child/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration</title>
+      <link>https://kathysmith.photography/photos/concentration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration</title>
+      <link>https://kathysmith.photography/photos/ten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/ten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flaminco</title>
+      <link>https://kathysmith.photography/photos/flaminco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/flaminco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hang On</title>
+      <link>https://kathysmith.photography/photos/floor-x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/floor-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retuchakra - Blue</title>
+      <link>https://kathysmith.photography/photos/retuchakra-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/retuchakra-blue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rituchakra Dance</title>
+      <link>https://kathysmith.photography/photos/rituchakra-dance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/rituchakra-dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rituchakra Story</title>
+      <link>https://kathysmith.photography/photos/rituchakra-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/rituchakra-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fans</title>
+      <link>https://kathysmith.photography/photos/the-fans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/the-fans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Gymnast</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/the-gymnast-1/</link>
+      <link>https://kathysmith.photography/photos/the-gymnast-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/the-gymnast-1/</guid>
+      <guid>https://kathysmith.photography/photos/the-gymnast-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Pep Talk</title>
+      <link>https://kathysmith.photography/photos/the-pep-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/the-pep-talk/</guid>
       <description></description>
     </item>
     

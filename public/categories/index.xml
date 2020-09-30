@@ -2,146 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kathy Smith | Photography</title>
-    <link>https://inspiring-pike-52c512.netlify.com/categories/</link>
+    <link>https://kathysmith.photography/categories/</link>
     <description>Recent content in Categories on Kathy Smith | Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://inspiring-pike-52c512.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kathysmith.photography/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>abstract</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/abstract/</link>
+      <link>https://kathysmith.photography/categories/abstract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/abstract/</guid>
+      <guid>https://kathysmith.photography/categories/abstract/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>action</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/action/</link>
+      <title>Action</title>
+      <link>https://kathysmith.photography/categories/action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/action/</guid>
+      <guid>https://kathysmith.photography/categories/action/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>birds</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/birds/</link>
+      <title>Birds</title>
+      <link>https://kathysmith.photography/categories/birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/birds/</guid>
+      <guid>https://kathysmith.photography/categories/birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bw</title>
+      <link>https://kathysmith.photography/categories/bw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/categories/bw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>city</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/city/</link>
+      <link>https://kathysmith.photography/categories/city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/city/</guid>
+      <guid>https://kathysmith.photography/categories/city/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>events</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/events/</link>
+      <title>color</title>
+      <link>https://kathysmith.photography/categories/color/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/events/</guid>
+      <guid>https://kathysmith.photography/categories/color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://kathysmith.photography/categories/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flowers</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/flowers/</link>
+      <link>https://kathysmith.photography/categories/flowers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/flowers/</guid>
+      <guid>https://kathysmith.photography/categories/flowers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>land</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/land/</link>
+      <link>https://kathysmith.photography/categories/land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/land/</guid>
+      <guid>https://kathysmith.photography/categories/land/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/people/</link>
+      <link>https://kathysmith.photography/categories/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/people/</guid>
+      <guid>https://kathysmith.photography/categories/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scape</title>
+      <link>https://kathysmith.photography/categories/scape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/categories/scape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scapes</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/scapes/</link>
+      <link>https://kathysmith.photography/categories/scapes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/scapes/</guid>
+      <guid>https://kathysmith.photography/categories/scapes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sea</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/sea/</link>
+      <link>https://kathysmith.photography/categories/sea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/sea/</guid>
+      <guid>https://kathysmith.photography/categories/sea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sports</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/sports/</link>
+      <link>https://kathysmith.photography/categories/sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/sports/</guid>
+      <guid>https://kathysmith.photography/categories/sports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stills</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/stills/</link>
+      <link>https://kathysmith.photography/categories/stills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/stills/</guid>
+      <guid>https://kathysmith.photography/categories/stills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stills. Studio</title>
+      <link>https://kathysmith.photography/categories/stills.-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/categories/stills.-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street</title>
+      <link>https://kathysmith.photography/categories/street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/categories/street/</guid>
       <description></description>
     </item>
     
     <item>
       <title>studio</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/studio/</link>
+      <link>https://kathysmith.photography/categories/studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/studio/</guid>
+      <guid>https://kathysmith.photography/categories/studio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>wild</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/wild/</link>
+      <title>Wild</title>
+      <link>https://kathysmith.photography/categories/wild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/wild/</guid>
+      <guid>https://kathysmith.photography/categories/wild/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>zoo</title>
-      <link>https://inspiring-pike-52c512.netlify.com/categories/zoo/</link>
+      <title>Zoo</title>
+      <link>https://kathysmith.photography/categories/zoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/categories/zoo/</guid>
+      <guid>https://kathysmith.photography/categories/zoo/</guid>
       <description></description>
     </item>
     

@@ -1,84 +1,228 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wild on Kathy Smith | Photography</title>
-    <link>https://inspiring-pike-52c512.netlify.com/categories/wild/</link>
-    <description>Recent content in wild on Kathy Smith | Photography</description>
+    <title>Wild on Kathy Smith | Photography</title>
+    <link>https://kathysmith.photography/categories/wild/</link>
+    <description>Recent content in Wild on Kathy Smith | Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://inspiring-pike-52c512.netlify.com/categories/wild/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kathysmith.photography/categories/wild/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blackcapped Chicadee</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/blackcapped-chicadee/</link>
+      <title>Afraid</title>
+      <link>https://kathysmith.photography/photos/afraid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/blackcapped-chicadee/</guid>
+      <guid>https://kathysmith.photography/photos/afraid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baltimore Oreole</title>
+      <link>https://kathysmith.photography/photos/baltimore-oreole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/baltimore-oreole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blackcapped Chicadee</title>
+      <link>https://kathysmith.photography/photos/blackcapped-chicadee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/blackcapped-chicadee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Heron</title>
+      <link>https://kathysmith.photography/photos/blue-heron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/blue-heron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blue Heron Fishing</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/blue-heron-fishing/</link>
+      <link>https://kathysmith.photography/photos/blue-heron-fishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/blue-heron-fishing/</guid>
+      <guid>https://kathysmith.photography/photos/blue-heron-fishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blue Heron Waiting</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/blue-heron-waiting/</link>
+      <link>https://kathysmith.photography/photos/blue-heron-waiting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/blue-heron-waiting/</guid>
+      <guid>https://kathysmith.photography/photos/blue-heron-waiting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fly-bye</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/fly-bye/</link>
+      <title>Caught in flight</title>
+      <link>https://kathysmith.photography/photos/caught-in-flight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/fly-bye/</guid>
+      <guid>https://kathysmith.photography/photos/caught-in-flight/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hummingbird</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/hummingbird/</link>
+      <title>Double-Crested Cormorant</title>
+      <link>https://kathysmith.photography/photos/double-crested-cormorant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/hummingbird/</guid>
+      <guid>https://kathysmith.photography/photos/double-crested-cormorant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Picking Flowers</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/picking-flowers/</link>
+      <title>Flamingo</title>
+      <link>https://kathysmith.photography/photos/flamingo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/picking-flowers/</guid>
+      <guid>https://kathysmith.photography/photos/flamingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawk Watching</title>
+      <link>https://kathysmith.photography/photos/hawk-watching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/hawk-watching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the net</title>
+      <link>https://kathysmith.photography/photos/in-the-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/in-the-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jelly Fish</title>
+      <link>https://kathysmith.photography/photos/jelly-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/jelly-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leopard</title>
+      <link>https://kathysmith.photography/photos/leopard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/leopard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lost</title>
+      <link>https://kathysmith.photography/photos/lost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/lost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch!</title>
+      <link>https://kathysmith.photography/photos/lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mane</title>
+      <link>https://kathysmith.photography/photos/mane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/mane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ostrich</title>
+      <link>https://kathysmith.photography/photos/ostrich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/ostrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parrots Preening</title>
+      <link>https://kathysmith.photography/photos/parrots-preening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/parrots-preening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Panda</title>
+      <link>https://kathysmith.photography/photos/red-panda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/red-panda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>https://kathysmith.photography/photos/reflection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sad</title>
+      <link>https://kathysmith.photography/photos/sad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/sad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show Off!</title>
+      <link>https://kathysmith.photography/photos/show-off/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathysmith.photography/photos/show-off/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparrow</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/sparrow/</link>
+      <link>https://kathysmith.photography/photos/sparrow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/sparrow/</guid>
+      <guid>https://kathysmith.photography/photos/sparrow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wood duck and friends</title>
-      <link>https://inspiring-pike-52c512.netlify.com/photos/wood-duck-and-friends/</link>
+      <link>https://kathysmith.photography/photos/wood-duck-and-friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inspiring-pike-52c512.netlify.com/photos/wood-duck-and-friends/</guid>
+      <guid>https://kathysmith.photography/photos/wood-duck-and-friends/</guid>
       <description></description>
     </item>
     
