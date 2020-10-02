@@ -137,6 +137,8 @@ figcaption styles
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
     padding: 5px;
+    font-size: x-large;
+    letter-spacing: 3px;
 }
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
