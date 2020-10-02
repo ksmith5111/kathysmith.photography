@@ -26,7 +26,7 @@ Nulla lobortis nam faucibus proin vivamus metus varius, dapibus ultricies ornare
 
 {{<gallery caption-effect="none">}}
   {{<figure
-    title="Cityscapes"
+    caption="Cityscapes"
     class="no-photoswipe"
     link="/categories/city/"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1584205828/FlatIron_Building_NYC_ho5ayg.jpg">}}
