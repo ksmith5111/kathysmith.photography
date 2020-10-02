@@ -155,7 +155,7 @@ figcaption styles
 }
 figcaption p {
     font-size: x-large;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     margin: auto; /* override style in theme */
 }
 
