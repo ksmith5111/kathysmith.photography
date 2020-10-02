@@ -30,12 +30,12 @@ Grid Layout Styles
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
         width: 33.3%; 
-        padding-bottom: 33.3%; /*  */
+        padding-bottom: 20%; /*  */
     }
 }
 @media only screen and (min-width : 9999px) {
-   /* Medium desktop: 4 tiles */
-   .box {
+   /* Medium desktop: 3 tiles */
+   .gallery .box {
       width: 33.3%; 
       padding-bottom: 20%;
    }
