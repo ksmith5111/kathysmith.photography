@@ -120,11 +120,10 @@ figcaption styles
     background: #000;
     color: #FFF;
     text-align: center;
-    font-size: x-large; /* change this if you want bigger text */
+    font-size: 75%; /* change this if you want bigger text */
     background: rgba(0, 0, 0, 0.5);
     opacity: 1;
     cursor: pointer;
-    letter-spacing: 2px;
 }
 .gallery.caption-position-none figcaption,
 .fancy-figure.caption-position-none figcaption  {
@@ -155,6 +154,8 @@ figcaption styles
     top: 100%;
 }
 figcaption p {
+    font-size: x-large;
+    letter-spacing: 2px;
     margin: auto; /* override style in theme */
 }
 
