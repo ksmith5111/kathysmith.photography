@@ -10,7 +10,7 @@ title: Landscapes
     src="https://res.cloudinary.com/rama-llama/image/upload/v1584205828/FlatIron_Building_NYC_ho5ayg.jpg">}}
   
   {{<figure 
-    caption="Lanscapes"
+    caption="Landscapes"
     class="no-photoswipe"
     link="/categories/land"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059972/Oregon_Desert_anl9oo.jpg">}}
