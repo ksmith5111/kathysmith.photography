@@ -6,7 +6,7 @@ title: Wildlife
   {{<figure
     caption= "Water Birds" 
     class="no-photoswipe"
-    link="/categories/water-birds/"
+    link="/categories/waterbirds/"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1587747206/The_Lake_tvywkk.jpg">}}
   
   {{<figure 
