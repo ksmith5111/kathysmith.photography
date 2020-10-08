@@ -22,7 +22,7 @@ title: Wildlife
     {{<figure
     caption="Birds of Prey"
     class="no-photoswipe"
-    link="/categories/birds of prey"
+    link="/categories/birds-of-prey"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/Flight_ar55bc.jpg">}}  
 
     
