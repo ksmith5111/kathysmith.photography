@@ -18,6 +18,13 @@ title: Wildlife
     caption="Backyard Birds"
     class="no-photoswipe"
     link="/categories/sea"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979//Baltimore_Oreole_l8mkyo.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/Baltimore_Oreole_l8mkyo.jpg">}}
+    {{<figure
+    caption="Birds of Prey"
+    class="no-photoswipe"
+    link="/categories/birds of prey"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/Flight_ar55bc.jpg">}}  
+
+    
 
 {{</gallery >}}
