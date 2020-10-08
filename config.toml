@@ -85,7 +85,7 @@ website = "https://kathysmith.photography/"
   [[menu.main]]
       identifier = "wild"
       url = "/categories/wild"
-      name = "Wild"
+      name = "Wildlife"
       weight = 1
 
   [[menu.main]]
