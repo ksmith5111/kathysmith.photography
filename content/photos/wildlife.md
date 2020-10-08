@@ -4,20 +4,20 @@ title: Wildlife
 
 {{<gallery caption-effect="none">}}
   {{<figure
-    caption= "Water Birds"
+    caption= "Water Birds" 
     class="no-photoswipe"
-    link="/categories/city/"
+    link="/categories/birds/"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1587747206/The_Lake_tvywkk.jpg">}}
   
   {{<figure 
-    caption="Lanscapes"
+    caption="The Zoo"
     class="no-photoswipe"
-    link="/categories/land"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059972/Oregon_Desert_anl9oo.jpg">}}
+    link="/categories/zoo"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1582658604/Mane_woi9ai.jpg">}}
   {{<figure
-    caption="Seascapes"
+    caption="Backyard Birds"
     class="no-photoswipe"
     link="/categories/sea"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/peter_iredale_wreck_mgrafb.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979//Baltimore_Oreole_l8mkyo.jpg">}}
 
 {{</gallery >}}
