@@ -96,12 +96,6 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       parent = "wild"
-      url = "/categories/birds-of-prey"
-      name = "Birds of Prey"
-      weight = 1
-
-  [[menu.main]]
-      parent = "wild"
       url = "/categories/zoo"
       name = "Zoo"
       weight = 1
