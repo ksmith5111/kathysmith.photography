@@ -83,22 +83,22 @@ website = "https://kathysmith.photography/"
       weight = 1
 
   [[menu.main]]
-      identifier = "wild"
-      url = "/categories/wild"
+      identifier = "wildlife"
+      url = "/photos/wildlife/"
       name = "Wildlife"
       weight = 1
 
-  [[menu.main]]
-      parent = "wild"
-      url = "/categories/birds"
-      name = "Birds"
-      weight = 1
+  #[[menu.main]]
+   #   parent = "wild"
+   #   url = "/categories/birds"
+   #   name = "Birds"
+   #   weight = 1
 
-  [[menu.main]]
-      parent = "wild"
-      url = "/categories/zoo"
-      name = "Zoo"
-      weight = 1
+  #[[menu.main]]
+  #    parent = "wild"
+  #    url = "/categories/zoo"
+  #    name = "Zoo"
+  #    weight = 1
 
   [[menu.main]]
       parent = "stills"
