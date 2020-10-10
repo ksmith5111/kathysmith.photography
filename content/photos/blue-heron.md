@@ -4,4 +4,5 @@ image: https://res.cloudinary.com/rama-llama/image/upload/v1593991081/Heron_in_B
 categories:
   - Wild
   - Birds
+  - waterbirds
 ---

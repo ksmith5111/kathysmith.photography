@@ -5,6 +5,7 @@ image: >-
 categories:
   - Wild
   - Birds
+  - birds-of-prey
 tags:
   - birds
 ---
