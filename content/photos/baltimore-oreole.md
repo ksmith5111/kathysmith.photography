@@ -4,7 +4,7 @@ image: https://res.cloudinary.com/rama-llama/image/upload/v1594323624/Baltimore_
 categories:
   - Wild
   - birds
-  - backyard birds
+  - backyard-birds
 tags:
   - ""
 ---
