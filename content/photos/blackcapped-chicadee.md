@@ -5,7 +5,7 @@ image: >-
 categories:
   - wild
   - birds
-  - backyard-birds
+  - backyard birds
 tags:
   - ''
 ---
