@@ -17,7 +17,7 @@ title: Wildlife
   {{<figure
     caption="Backyard Birds"
     class="no-photoswipe"
-    link="/categories/birds"
+    link="/categories/backyard-birds"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/Baltimore_Oreole_l8mkyo.jpg">}}
     {{<figure
     caption="Birds of Prey"
