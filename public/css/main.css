@@ -1043,7 +1043,7 @@ nav ul li {
   }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .homepage-content-wrapper {
     padding: 1rem;
   }
