@@ -35,9 +35,9 @@ Grid Layout Styles
 }
 @media only screen and (min-width : 9999px) {
    /* Medium desktop: 3 tiles */
-   .box {
+   .gallery.box {
      width: 33.3%; 
-      padding-bottom: 20%;
+     padding-bottom: 20%;
    }
 }
 
