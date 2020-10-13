@@ -48,7 +48,7 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       identifier = "people"
-      url = "/categories/people"
+      url = "/photos/people"
       name = "People"
       weight = 1
 
