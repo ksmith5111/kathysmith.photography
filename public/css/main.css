@@ -1024,7 +1024,7 @@ nav ul li {
   letter-spacing: 0.3em;
 }
 
-@media (min-width: 395px) {
+@media (max-width: 395px) {
   .homepage-nav ul {
     flex-direction: column;
   }
@@ -1034,7 +1034,7 @@ nav ul li {
   }
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
   .heading .title {
     font-size: 4rem;
   }
@@ -1043,7 +1043,7 @@ nav ul li {
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .homepage-content-wrapper {
     padding: 1rem;
   }
@@ -1175,7 +1175,7 @@ nav ul li {
 
 @media only screen and (min-width: 992px) {
   .container {
-    max-width: 1800px;
+    max-width: 960px;
   }
 
   .navbar-nav li a {
@@ -1185,6 +1185,6 @@ nav ul li {
 
 @media only screen and (min-width: 1200px) {
   .container {
-    max-width: 2200px;
+    max-width: 1140px;
   }
 }
