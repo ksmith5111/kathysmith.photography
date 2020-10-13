@@ -118,20 +118,20 @@ website = "https://kathysmith.photography/"
       name = "Studio"
       weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/land"
-      name = "Land"
-      weight = 1
+  #[[menu.main]]
+  #    parent = "scapes"
+  #    url = "/categories/land"
+  #   name = "Land"
+  #   weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/sea"
-      name = "Sea"
-      weight = 1
+ # [[menu.main]]
+ #     parent = "scapes"
+ #     url = "/categories/sea"
+ #     name = "Sea"
+ #     weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/city"
-      name = "City"
-      weight = 1
+ # [[menu.main]]
+ #     parent = "scapes"
+ #     url = "/categories/city"
+ #     name = "City"
+ #     weight = 1
