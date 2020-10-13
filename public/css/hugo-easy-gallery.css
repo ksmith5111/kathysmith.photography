@@ -19,7 +19,6 @@ Grid Layout Styles
     width: 100%;
     padding-bottom: 100%;
 }
-
 @media only screen and (min-width : 365px) {
     /* Tablet view: 1 tiles */
     .gallery .box {
@@ -30,8 +29,8 @@ Grid Layout Styles
 @media only screen and (min-width : 480px) {
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
-        width: 50%; 
-        padding-bottom: 50%; /*  */
+        width: 33.3%; 
+        padding-bottom: 27%; /*  */
     }
 }
 @media only screen and (min-width : 9999px) {
@@ -63,10 +62,10 @@ figure {
 }
 .gallery figure {
     position: absolute;
-    left: 5px;
-    right: 5px;
-    top: 5px;
-    bottom: 5px;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
@@ -138,6 +137,8 @@ figcaption styles
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
     padding: 5px;
+    font-size: x-large;
+    letter-spacing: 3px;
 }
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
