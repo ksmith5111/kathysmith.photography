@@ -19,21 +19,21 @@ Grid Layout Styles
     width: 100%;
     padding-bottom: 100%;
 }
-@media only screen and (min-width : 365px) {
+@media only screen and (min-width : 576px) {
     /* Tablet view: 1 tiles */
     .gallery .box {
         width: 100%;
         padding-bottom: 100%;
     }
 }
-@media only screen and (min-width : 480px) {
-    /* Small desktop / ipad view: 3 tiles */
+@media only screen and (min-width : 768px) {
+    /* Small desktop / ipad view: 2 tiles */
     .gallery .box {
         width: 50%; 
         padding-bottom: 50%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
+@media only screen and (min-width : 992px) {
    /* Medium desktop: 3 tiles */
    .gallery .box {
       width: 33.3%; 
