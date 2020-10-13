@@ -72,7 +72,7 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       identifier = "landscapes"
-      name = "Landcapes"
+      name = "Scapes"
       url = "/photos/landscapes"
       weight = 1
 
