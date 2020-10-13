@@ -20,4 +20,6 @@ title: People
     class="no-photoswipe"
     link="/categories/sports"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059972/Fans_nu22el.jpg">}}
+    
+
 {{</gallery >}}
