@@ -17,13 +17,13 @@ Grid Layout Styles
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%;
+    padding-bottom: 5%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
     .gallery .box {
         width: 100%;
-        padding-bottom: 50%;
+        padding-bottom: 20%;
     }
 }
 @media only screen and (min-width : 480px) {
