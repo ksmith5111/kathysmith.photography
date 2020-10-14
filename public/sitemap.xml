@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/backyard-birds/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/baltimore-oreole/</loc>
   </url>
   
@@ -40,6 +44,10 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/birds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/birds-of-prey/</loc>
   </url>
   
   <url>
@@ -91,11 +99,11 @@
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/city/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/city/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/city/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/city/</loc>
   </url>
   
   <url>
@@ -107,11 +115,11 @@
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/color/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/color/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/color/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/color/</loc>
   </url>
   
   <url>
@@ -215,6 +223,10 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/landscapes/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/leopard/</loc>
   </url>
   
@@ -300,6 +312,10 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/parrots-preening/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/people/</loc>
   </url>
   
   <url>
@@ -507,11 +523,19 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/waterbirds/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/waterdrops/</loc>
   </url>
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/wild/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wildlife/</loc>
   </url>
   
   <url>
