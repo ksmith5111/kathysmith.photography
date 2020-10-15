@@ -19,25 +19,25 @@ Grid Layout Styles
     width: 100%;
     padding-bottom: 100%;
 }
-@media only screen and (min-width : 365px) {
-    /* Tablet view: 2 tiles */
+@media only screen and (min-width : 576px) {
+    /* Tablet view: 1 tiles */
     .gallery .box {
-        width: 50%;
-        padding-bottom: 50%;
+        width: 100%;
+        padding-bottom: 100%;
     }
 }
-@media only screen and (min-width : 480px) {
+@media only screen and (min-width : 768px) {
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
-        /* width: 33.3%; */
-        padding-bottom: 33.3%; /*  */
+        width: 50%; 
+        padding-bottom: 50%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
-   /* Medium desktop: 4 tiles */
-   .box {
-      /* width: 25%; */
-      padding-bottom: 25%;
+@media only screen and (min-width : 992px) {
+   /* Medium desktop: 3 tiles */
+   .gallery .box {
+      width: 33.3%; 
+      padding-bottom: 33.3%;
    }
 }
 
@@ -137,6 +137,8 @@ figcaption styles
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
     padding: 5px;
+    font-size: x-large;
+    letter-spacing: 3px;
 }
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
