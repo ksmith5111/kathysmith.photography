@@ -1,5 +1,5 @@
 ---
-title: Wildlife
+title: Wild
 ---
 
 {{<gallery caption-effect="none">}}

@@ -1,5 +1,5 @@
 ---
-title: Landscapes
+title: Scapes
 ---
 
 {{<gallery caption-effect="none">}}
