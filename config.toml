@@ -71,9 +71,9 @@ website = "https://kathysmith.photography/"
       weight = 1     
 
   [[menu.main]]
-      identifier = "landscapes"
+      identifier = "scapes"
       name = "Scapes"
-      url = "/photos/landscapes"
+      url = "/photos/scapes"
       weight = 1
 
   [[menu.main]]
@@ -83,9 +83,9 @@ website = "https://kathysmith.photography/"
       weight = 1
 
   [[menu.main]]
-      identifier = "wildlife"
-      url = "/photos/wildlife/"
-      name = "Wildlife"
+      identifier = "wild"
+      url = "/photos/wild/"
+      name = "Wild"
       weight = 1
 
   #[[menu.main]]
