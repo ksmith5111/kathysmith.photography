@@ -19,28 +19,34 @@ Grid Layout Styles
     width: 100%;
     padding-bottom: 100%;
 }
-@media only screen and (min-width : 365px) {
+@media only screen and (min-width : 576px) {
     /* Tablet view: 1 tiles */
     .gallery .box {
         width: 100%;
         padding-bottom: 100%;
     }
 }
-@media only screen and (min-width : 480px) {
+@media only screen and (min-width : 768px) {
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
         width: 33.3%; 
         padding-bottom: 33.3%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
+@media only screen and (min-width : 992px) {
    /* Medium desktop: 3 tiles */
    .gallery .box {
       width: 33.3%; 
       padding-bottom: 33.3%;
    }
 }
-
+@media only screen and (min-width : 1200px) {
+    /* Medium desktop: 3 tiles */
+    .gallery .box {
+       width: 33.3%; 
+       padding-bottom: 33.3%;
+    }
+ }
 /*
 Transition styles
 */
@@ -62,10 +68,10 @@ figure {
 }
 .gallery figure {
     position: absolute;
-    left: 5px;
-    right: 5px;
-    top: 5px;
-    bottom: 5px;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
