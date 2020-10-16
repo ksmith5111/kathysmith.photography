@@ -23,7 +23,7 @@ title: Wild
     caption="Birds of Prey"
     class="no-photoswipe"
     link="/categories/birds-of-prey"
-    src="hhttps://res.cloudinary.com/rama-llama/image/upload/c_crop,h_581,w_581,x_581,y_581/v1602879402/Flight_2_nfok0h.jpg">}}  
+    src="https://res.cloudinary.com/rama-llama/image/upload/c_fill,g_auto,h_581,w_581/v1602879402/Flight_2_nfok0h.jpg">}}  
         {{<figure
     caption="Outdoors"
     class="no-photoswipe"
