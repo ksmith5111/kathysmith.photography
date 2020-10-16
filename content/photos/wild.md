@@ -23,12 +23,12 @@ title: Wild
     caption="Birds of Prey"
     class="no-photoswipe"
     link="/categories/birds-of-prey"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/Flight_ar55bc.jpg">}}  
+    src="hhttps://res.cloudinary.com/rama-llama/image/upload/c_crop,h_581,w_581,x_581,y_581/v1602879402/Flight_2_nfok0h.jpg">}}  
         {{<figure
     caption="Outdoors"
     class="no-photoswipe"
     link="/categories/outdoors"
-    src="https://res.cloudinary.com/rama-llama/image/upload/c_fit,w_1052/v1602865498/Bull_Elk_coxkwb.jpg">}}  
+    src="https://res.cloudinary.com/rama-llama/image/upload/c_fill,dpr_auto,g_xy_center,h_581,w_581,z_1.2/v1602865498/Bull_Elk_coxkwb.jpg">}}  
 
     
 
