@@ -38,8 +38,7 @@ Grid Layout Styles
    .gallery .box {
       width: 33.3%; 
       padding-bottom: 33.3%;
-      margin-top: 2em;
-      margin-bottom: 2em;
+      margin-bottom: 4em;
    }
 }
 
