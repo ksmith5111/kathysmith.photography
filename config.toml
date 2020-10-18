@@ -25,7 +25,7 @@ website = "https://kathysmith.photography/"
   [[menu.main]]
       name = "Events"
       identifier = "events"
-      url = "/categories/events"
+      url = "/photos/events"
       weight = 1
 
  # [[menu.main]]
