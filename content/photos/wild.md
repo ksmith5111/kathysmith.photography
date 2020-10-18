@@ -25,7 +25,7 @@ title: Wild
     link="/categories/birds-of-prey"
     src="https://res.cloudinary.com/rama-llama/image/upload/c_fill,g_auto,h_581,w_581/v1602879402/Flight_2_nfok0h.jpg">}}  
         {{<figure
-    caption="Outdoors"
+    caption="Wildlife"
     class="no-photoswipe"
     link="/categories/outdoors"
     src="https://res.cloudinary.com/rama-llama/image/upload/c_fill,dpr_auto,g_xy_center,h_581,w_581,z_1.2/v1602865498/Bull_Elk_coxkwb.jpg">}}  
