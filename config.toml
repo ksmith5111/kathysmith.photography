@@ -114,7 +114,7 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       parent = "stills"
-      url = "/categories/studio"
+      url = "/photos/studio"
       name = "Studio"
       weight = 1
 
