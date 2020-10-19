@@ -6,7 +6,6 @@ categories:
   - people
   - bw
   - sports
-  tags:
-  - ''
+
 ---
 
