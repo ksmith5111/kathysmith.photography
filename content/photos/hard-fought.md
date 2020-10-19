@@ -5,7 +5,8 @@ image: >-
 categories:
   - people
   - bw
-tags:
+  - sports
+  tags:
   - ''
 ---
 
