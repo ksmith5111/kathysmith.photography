@@ -13,7 +13,7 @@ title: Events
     caption="Dance"
     class="no-photoswipe"
     link="/categories/dance/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1584986716/Flaminco_u8ex6l.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1603129294/Flaminco_u8ex6l_liglti.jpg">}}
   
   {{<figure
     caption="Cultural Events"
