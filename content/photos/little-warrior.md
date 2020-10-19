@@ -4,4 +4,5 @@ image: https://res.cloudinary.com/rama-llama/image/upload/v1594853305/Little_War
 categories:
   - People
   - Color
+  - cultural
 ---
