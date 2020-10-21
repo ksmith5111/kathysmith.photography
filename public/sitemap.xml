@@ -39,11 +39,11 @@
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/birds/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/birds/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/birds/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/birds/</loc>
   </url>
   
   <url>
@@ -99,11 +99,11 @@
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/city/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/city/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/city/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/city/</loc>
   </url>
   
   <url>
@@ -115,11 +115,11 @@
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/color/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/color/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/color/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/color/</loc>
   </url>
   
   <url>
@@ -139,6 +139,18 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/cultural/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/cultural/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/dance/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/dominos/</loc>
   </url>
   
@@ -147,7 +159,15 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/elk/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/events/</loc>
   </url>
   
   <url>
@@ -187,6 +207,10 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hawk-flight/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hawk-watching/</loc>
   </url>
   
@@ -220,10 +244,6 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/land/</loc>
-  </url>
-  
-  <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/landscapes/</loc>
   </url>
   
   <url>
@@ -308,6 +328,10 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/ostrich/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/outdoors/</loc>
   </url>
   
   <url>
@@ -407,6 +431,10 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/scapes/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/scapes/</loc>
   </url>
   
@@ -431,6 +459,10 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/social/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/sparrow/</loc>
   </url>
   
@@ -444,6 +476,10 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/staple-city/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/stills/</loc>
   </url>
   
   <url>
@@ -531,11 +567,15 @@
   </url>
   
   <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/white-zinnia/</loc>
+  </url>
+  
+  <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/wild/</loc>
   </url>
   
   <url>
-    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wildlife/</loc>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wild/</loc>
   </url>
   
   <url>
@@ -552,6 +592,10 @@
   
   <url>
     <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/workout/</loc>
+  </url>
+  
+  <url>
+    <loc>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/tags/zinnia/</loc>
   </url>
   
   <url>

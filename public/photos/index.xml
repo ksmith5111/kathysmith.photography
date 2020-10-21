@@ -191,6 +191,28 @@
     </item>
     
     <item>
+      <title>Elk</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/elk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/elk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/events/</guid>
+      <description>   Sporting Events
+     Dance
+     Cultural Events
+     Social Events
+    </description>
+    </item>
+    
+    <item>
       <title>Flaminco</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flaminco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -246,6 +268,15 @@
     
     <item>
       <title>Hawk Watching</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hawk-flight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hawk-flight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawk Watching</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hawk-watching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -296,18 +327,6 @@
       
       <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/kids-in-the-mist/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Landscapes</title>
-      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/landscapes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/landscapes/</guid>
-      <description>    Cityscapes
-      Landscapes
-      Seascapes
-    </description>
     </item>
     
     <item>
@@ -478,10 +497,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/people/</guid>
-      <description>    Black and White
-      Color
-      Sports
-      Street
+      <description>   Black and White
+     Color
+     Sports
+     Street
     </description>
     </item>
     
@@ -630,6 +649,18 @@
     </item>
     
     <item>
+      <title>Scapes</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/scapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/scapes/</guid>
+      <description>   Cityscapes
+     Landscapes
+     Seascapes
+    </description>
+    </item>
+    
+    <item>
       <title>Show Off!</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/show-off/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -681,6 +712,18 @@
       
       <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/staple-city/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Stills</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/stills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/stills/</guid>
+      <description>   Abstracts
+     Flowers
+     Studio
+    </description>
     </item>
     
     <item>
@@ -783,15 +826,25 @@
     </item>
     
     <item>
-      <title>Wildlife</title>
-      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wildlife/</link>
+      <title>White Zinnia</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/white-zinnia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wildlife/</guid>
-      <description>    Water Birds
-      The Zoo
-      Backyard Birds
-      Birds of Prey
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/white-zinnia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wild</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/wild/</guid>
+      <description>   Water Birds
+     The Zoo
+     Backyard Birds
+     Birds of Prey
+     Wildlife
     </description>
     </item>
     

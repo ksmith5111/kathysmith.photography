@@ -114,7 +114,16 @@
     </div>
   </div>
 </footer>
-
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function(){
+  var $grid = $('.gallery').imagesLoaded(function() {
+    $grid.masonry({
+      itemSelector: '.box',
+      percentPosition: true
+    });
+  });
+}, false);
+</script>
 
       
     

@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>action</title>
+      <title>Action</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>backyard-birds</title>
+      <title>backyard birds</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/backyard-birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>Birds</title>
+      <title>birds</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,6 +83,24 @@
     </item>
     
     <item>
+      <title>cultural</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/cultural/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/cultural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dance</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/dance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Events</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,11 +119,20 @@
     </item>
     
     <item>
-      <title>Land</title>
+      <title>land</title>
       <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/outdoors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/outdoors/</guid>
       <description></description>
     </item>
     
@@ -142,6 +169,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/categories/social/</guid>
       <description></description>
     </item>
     
