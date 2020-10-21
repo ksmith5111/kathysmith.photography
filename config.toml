@@ -28,17 +28,17 @@ website = "https://kathysmith.photography/"
       url = "/photos/events"
       weight = 1
 
- # [[menu.main]]
- #     parent = "action"
- #     name = "Sports"
- #     url = "/categories/sports"
- #     weight = 1
+  [[menu.main]]
+      parent = "Events"
+      name = "Sports"
+      url = "/categories/sports"
+      weight = 1
 
- # [[menu.main]]
- #     parent = "action"
- #     name = "Events"
- #     url = "/categories/events"
- #     weight = 2
+  [[menu.main]]
+      parent = "Events"
+      name = "Events"
+      url = "/categories/social"
+      weight = 2
 
  # [[menu.main]]
  #     parent = "action"

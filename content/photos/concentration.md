@@ -1,9 +1,9 @@
 ---
 title: Concentration
 image: >-
-  https://res.cloudinary.com/rama-llama/image/upload/v1583101285/Concentration_uoqrk2.jpg
+  https://res.cloudinary.com/rama-llama/image/upload/v1603125977/Concentration_mwehio_yjdtku.jpg
 categories:
-  - Action
+  - Events
   - Sports
 tags:
   - Basketball
