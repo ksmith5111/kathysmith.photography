@@ -40,11 +40,11 @@ website = "https://kathysmith.photography/"
       url = "/categories/social"
       weight = 2
 
- # [[menu.main]]
- #     parent = "action"
- #     name = "Motion"
- #     url = "/categories/motion"
- #     weight = 3
+  [[menu.main]]
+      parent = "Events"
+      name = "Cultural"
+      url = "/categories/cultural"
+ #    weight = 3
 
   [[menu.main]]
       identifier = "people"
