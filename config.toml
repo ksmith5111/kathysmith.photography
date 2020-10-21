@@ -28,23 +28,23 @@ website = "https://kathysmith.photography/"
       url = "/photos/events"
       weight = 1
 
-  [[menu.main]]
-      parent = "Events"
-      name = "Sports"
-      url = "/categories/sports"
-      weight = 1
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Sports"
+ #     url = "/categories/sports"
+ #     weight = 1
 
-  [[menu.main]]
-      parent = "Events"
-      name = "Events"
-      url = "/categories/social"
-      weight = 2
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Events"
+ #     url = "/categories/events"
+ #     weight = 2
 
-  [[menu.main]]
-      parent = "Events"
-      name = "Cultural"
-      url = "/categories/cultural"
- #    weight = 3
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Motion"
+ #     url = "/categories/motion"
+ #     weight = 3
 
   [[menu.main]]
       identifier = "people"
@@ -68,13 +68,13 @@ website = "https://kathysmith.photography/"
       parent = "people"
       name = "Street"
       url = "/categories/street"
-      weight = 1     
+      weight = 1  
 
-  [[menu.main]]
+    [[menu.main]]
       identifier = "scapes"
       name = "Scapes"
       url = "/photos/scapes"
-      weight = 1
+      weight = 1  
 
   [[menu.main]]
       identifier = "stills"
@@ -88,17 +88,18 @@ website = "https://kathysmith.photography/"
       name = "Wild"
       weight = 1
 
-  #[[menu.main]]
-   #   parent = "wild"
-   #   url = "/categories/birds"
-   #   name = "Birds"
-   #   weight = 1
+   [[menu.main]]
+      parent = "wild"
+      url = "/categories/birds"
+      name = "Birds"
+      weight = 1
 
-  #[[menu.main]]
-  #    parent = "wild"
-  #    url = "/categories/zoo"
-  #    name = "Zoo"
-  #    weight = 1
+  [[menu.main]]
+      parent = "wild"
+      url = "/categories/zoo"
+      name = "Zoo"
+      weight = 1
+
 
   [[menu.main]]
       parent = "stills"
@@ -114,24 +115,24 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       parent = "stills"
-      url = "/photos/studio"
+      url = "/categories/studio"
       name = "Studio"
       weight = 1
 
-  #[[menu.main]]
-  #    parent = "scapes"
-  #    url = "/categories/land"
-  #   name = "Land"
-  #   weight = 1
+  [[menu.main]]
+      parent = "scapes"
+      url = "/categories/land"
+      name = "Land"
+      weight = 1
 
- # [[menu.main]]
- #     parent = "scapes"
- #     url = "/categories/sea"
- #     name = "Sea"
- #     weight = 1
+  [[menu.main]]
+      parent = "scapes"
+      url = "/categories/sea"
+      name = "Sea"
+      weight = 1
 
- # [[menu.main]]
- #     parent = "scapes"
- #     url = "/categories/city"
- #     name = "City"
- #     weight = 1
+  [[menu.main]]
+      parent = "scapes"
+      url = "/categories/city"
+      name = "City"
+      weight = 1
