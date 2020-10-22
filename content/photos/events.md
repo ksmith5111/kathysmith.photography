@@ -20,7 +20,7 @@ title: Events
     caption="Cultural Events"
     class="no-photoswipe"
     link="/categories/cultural/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/c_fill,g_auto:face,q_auto:best,w_1500/v1596654442/The_Dance_nfzio1.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1596654442/The_Dance_nfzio1.jpg">}}
 
   {{<figure
     caption="Social Events"
