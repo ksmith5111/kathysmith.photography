@@ -4,4 +4,7 @@ image: https://res.cloudinary.com/rama-llama/image/upload/v1603125308/White_Zinn
 categories:
   - stills
   - flowers
+tags:
+  - flowers
+  - zinnia
 ---

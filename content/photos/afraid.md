@@ -1,6 +1,6 @@
 ---
 title: Afraid
-image: https://res.cloudinary.com/rama-llama/image/upload/v1588271914/Afraid_kio2fm.jpg
+image: https://res.cloudinary.com/rama-llama/image/upload/v1603124937/Afraid_kio2fm_nd8wou.jpg
 categories:
   - Wild
   - Zoo

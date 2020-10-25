@@ -144,6 +144,10 @@ figure {
 }
 
 /* --- Navbar --- */
+#main-navbar {
+  z-index: 3;
+}
+
 .navbar-mobile {
   width: 100%;
   background-color: #151515;
@@ -1175,7 +1179,7 @@ nav ul li {
 
 @media only screen and (min-width: 992px) {
   .container {
-    max-width: 960px;
+    max-width: 1800px;
   }
 
   .navbar-nav li a {
@@ -1185,6 +1189,6 @@ nav ul li {
 
 @media only screen and (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 1800px;
   }
 }

@@ -1,4 +1,4 @@
-baseurl = "https://kathysmith.photography/"
+baseurl = "https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Kathy Smith | Photography"
@@ -22,32 +22,32 @@ website = "https://kathysmith.photography/"
 
 [menu]
   [[menu.main]]
-      name = "Action"
-      identifier = "action"
-      url = "/categories/action"
-      weight = 1
-
-  [[menu.main]]
-      parent = "action"
-      name = "Sports"
-      url = "/categories/sports"
-      weight = 1
-
-  [[menu.main]]
-      parent = "action"
       name = "Events"
-      url = "/categories/events"
-      weight = 2
+      identifier = "events"
+      url = "/photos/events"
+      weight = 1
 
-  [[menu.main]]
-      parent = "action"
-      name = "Motion"
-      url = "/categories/motion"
-      weight = 3
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Sports"
+ #     url = "/categories/sports"
+ #     weight = 1
+
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Events"
+ #     url = "/categories/events"
+ #     weight = 2
+
+ # [[menu.main]]
+ #     parent = "action"
+ #     name = "Motion"
+ #     url = "/categories/motion"
+ #     weight = 3
 
   [[menu.main]]
       identifier = "people"
-      url = "/categories/people"
+      url = "/photos/people"
       name = "People"
       weight = 1
 
@@ -67,27 +67,27 @@ website = "https://kathysmith.photography/"
       parent = "people"
       name = "Street"
       url = "/categories/street"
-      weight = 1     
+      weight = 1  
 
-  [[menu.main]]
+    [[menu.main]]
       identifier = "scapes"
       name = "Scapes"
-      url = "/categories/scapes"
-      weight = 1
+      url = "/photos/scapes"
+      weight = 1  
 
   [[menu.main]]
       identifier = "stills"
       name = "Stills"
-      url = "/categories/stills"
+      url = "/photos/stills"
       weight = 1
 
   [[menu.main]]
       identifier = "wild"
-      url = "/categories/wild"
+      url = "/photos/wild/"
       name = "Wild"
       weight = 1
 
-  [[menu.main]]
+   [[menu.main]]
       parent = "wild"
       url = "/categories/birds"
       name = "Birds"
@@ -95,20 +95,8 @@ website = "https://kathysmith.photography/"
 
   [[menu.main]]
       parent = "wild"
-      url = "/categories/pets"
-      name = "Pets"
-      weight = 1
-
-  [[menu.main]]
-      parent = "wild"
       url = "/categories/zoo"
       name = "Zoo"
-      weight = 1
-
-  [[menu.main]]
-      parent = "stills"
-      url = "/categories/abstracts"
-      name = "Abstracts"
       weight = 1
 
   [[menu.main]]

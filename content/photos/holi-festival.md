@@ -8,5 +8,6 @@ tags:
   - holi festival
   - people
   - color
+  - cultural
 ---
 
