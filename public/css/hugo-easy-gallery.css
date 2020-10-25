@@ -13,9 +13,6 @@ Grid Layout Styles
 }
 
 .gallery .box {
-    margin-bottom: 1rem;
-    display: inline-block;
-    vertical-align: top;
     width: 100%;
 }
 
