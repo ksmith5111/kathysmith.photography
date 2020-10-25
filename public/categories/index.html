@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Overview of all pages with categories, ordered by category - Kathy Smith | Photography</title>
-  <meta name="description" content="A full overview of all pages with categories, ordered by category, such as: wild, people, birds, stills, scapes, sports, zoo, studio, action, bw, events, street, color, land, …">
+  <meta name="description" content="A full overview of all pages with categories, ordered by category, such as: wild, people, birds, scapes, stills, sports, studio, zoo, bw, events, land, street, action, color, …">
   <meta name="author" content="Kathy Smith"/>
 <meta property="og:title" content="Categories" />
 <meta property="og:image" content="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/android-chrome-144x144" />
@@ -194,8 +194,17 @@
           
         
           
-            <li>
-              <a title="Scapes" href="/photos/scapes">Scapes</a>
+            <li class="navlinks-container">
+              <a title="Scapes" href="/photos/scapes" class="navlinks-parent">Scapes</a>
+              <div class="navlinks-children">
+                
+                  <a href="/categories/city">City</a>
+                
+                  <a href="/categories/land">Land</a>
+                
+                  <a href="/categories/sea">Sea</a>
+                
+              </div>
             </li>
           
         
@@ -204,19 +213,24 @@
               <a title="Stills" href="/photos/stills" class="navlinks-parent">Stills</a>
               <div class="navlinks-children">
                 
-                  <a href="/categories/abstracts">Abstracts</a>
-                
                   <a href="/categories/flowers">Flowers</a>
                 
-                  <a href="/photos/studio">Studio</a>
+                  <a href="/categories/studio">Studio</a>
                 
               </div>
             </li>
           
         
           
-            <li>
-              <a title="Wild" href="/photos/wild/">Wild</a>
+            <li class="navlinks-container">
+              <a title="Wild" href="/photos/wild/" class="navlinks-parent">Wild</a>
+              <div class="navlinks-children">
+                
+                  <a href="/categories/birds">Birds</a>
+                
+                  <a href="/categories/zoo">Zoo</a>
+                
+              </div>
             </li>
           
         
@@ -422,6 +436,52 @@
           </div>
         
           <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsescapes" data-parent="#accordion">
+                <div class="panel-heading" id="headerscapes">
+                  <h4 class="panel-title">
+                      scapes
+                    <span class="badge">13</span>
+                  </h4>
+                </div>
+            </a>
+            <div id="collapsescapes" class="panel-collapse collapse">
+              <div class="panel-body">
+                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/scapes/" class="list-group-item view-all">
+                View all</a>
+                <div class="list-group">
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/colyer/" class="list-group-item">Colyer Lake at Night</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/mornings-at-the-late/" class="list-group-item">Flamingo</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flatiron-building-nyc/" class="list-group-item">FlatIron Building NYC</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/golden-pond/" class="list-group-item">Golden Pond</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/morning-lake/" class="list-group-item">Morning Lake</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/oregon-desert/" class="list-group-item">Oregon Desert</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/peter-iredale-wreck/" class="list-group-item">Peter Iredale Wreck</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/pittsburgh-skyline/" class="list-group-item">Pittsburgh Skyline</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/portland-at-night/" class="list-group-item">Portland at Night</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/santorini-apartments/" class="list-group-item">Santorini Apartments</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/autumn-fire/" class="list-group-item">Scape - Autumn Fire</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/fog/" class="list-group-item">Scape - Fog</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-stream/" class="list-group-item">The Stream</a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsestills" data-parent="#accordion">
                 <div class="panel-heading" id="headerstills">
                   <h4 class="panel-title">
@@ -466,53 +526,11 @@
           </div>
         
           <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsescapes" data-parent="#accordion">
-                <div class="panel-heading" id="headerscapes">
-                  <h4 class="panel-title">
-                      scapes
-                    <span class="badge">11</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsescapes" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/scapes/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flatiron-building-nyc/" class="list-group-item">FlatIron Building NYC</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/golden-pond/" class="list-group-item">Golden Pond</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/morning-lake/" class="list-group-item">Morning Lake</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/oregon-desert/" class="list-group-item">Oregon Desert</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/peter-iredale-wreck/" class="list-group-item">Peter Iredale Wreck</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/pittsburgh-skyline/" class="list-group-item">Pittsburgh Skyline</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/portland-at-night/" class="list-group-item">Portland at Night</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/santorini-apartments/" class="list-group-item">Santorini Apartments</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/autumn-fire/" class="list-group-item">Scape - Autumn Fire</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/fog/" class="list-group-item">Scape - Fog</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-stream/" class="list-group-item">The Stream</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsesports" data-parent="#accordion">
                 <div class="panel-heading" id="headersports">
                   <h4 class="panel-title">
                       sports
-                    <span class="badge">11</span>
+                    <span class="badge">10</span>
                   </h4>
                 </div>
             </a>
@@ -528,8 +546,6 @@
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/concentration/" class="list-group-item">Concentration</a>
                   
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/ten/" class="list-group-item">Concentration</a>
-                  
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/floor-x/" class="list-group-item">Hang On</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/hard-fought/" class="list-group-item">Hard Fought</a>
@@ -543,6 +559,44 @@
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-pep-talk/" class="list-group-item">The Pep Talk</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-shot/" class="list-group-item">The Shot</a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsestudio" data-parent="#accordion">
+                <div class="panel-heading" id="headerstudio">
+                  <h4 class="panel-title">
+                      studio
+                    <span class="badge">9</span>
+                  </h4>
+                </div>
+            </a>
+            <div id="collapsestudio" class="panel-collapse collapse">
+              <div class="panel-body">
+                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/studio/" class="list-group-item view-all">
+                View all</a>
+                <div class="list-group">
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/color-1/" class="list-group-item">Color</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/dominos/" class="list-group-item">Dominos</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/horns/" class="list-group-item">Horns</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/lil-drummer-1/" class="list-group-item">Lil Drummer</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/lil-drummer-2/" class="list-group-item">Lil Drummer</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/spirograph/" class="list-group-item">Spirograph</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/strawberries-and-cream-1/" class="list-group-item">Strawberries and cream</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/water-drop-1/" class="list-group-item">Water Drop</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/water-drop/" class="list-group-item">Water Drop</a>
                   
                 </div>
               </div>
@@ -581,76 +635,6 @@
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/reflection/" class="list-group-item">Reflection</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/sad/" class="list-group-item">Sad</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsestudio" data-parent="#accordion">
-                <div class="panel-heading" id="headerstudio">
-                  <h4 class="panel-title">
-                      studio
-                    <span class="badge">8</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsestudio" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/studio/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/dominos/" class="list-group-item">Dominos</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/horns/" class="list-group-item">Horns</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/lil-drummer-1/" class="list-group-item">Lil Drummer</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/lil-drummer-2/" class="list-group-item">Lil Drummer</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/spirograph/" class="list-group-item">Spirograph</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/strawberries-and-cream-1/" class="list-group-item">Strawberries and cream</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/water-drop-1/" class="list-group-item">Water Drop</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/water-drop/" class="list-group-item">Water Drop</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseaction" data-parent="#accordion">
-                <div class="panel-heading" id="headeraction">
-                  <h4 class="panel-title">
-                      action
-                    <span class="badge">7</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapseaction" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/action/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/battle-lost/" class="list-group-item">Battle Lost</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/child/" class="list-group-item">Child</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/concentration/" class="list-group-item">Concentration</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/floor-x/" class="list-group-item">Hang On</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-fans/" class="list-group-item">The Fans</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-gymnast-1/" class="list-group-item">The Gymnast</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-pep-talk/" class="list-group-item">The Pep Talk</a>
                   
                 </div>
               </div>
@@ -708,9 +692,9 @@
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/battle-lost/" class="list-group-item">Battle Lost</a>
                   
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/ten/" class="list-group-item">Concentration</a>
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/concentration/" class="list-group-item">Concentration</a>
                   
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flaminco/" class="list-group-item">Flaminco</a>
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flaminco/" class="list-group-item">Flamenco</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/retuchakra-blue/" class="list-group-item">Retuchakra - Blue</a>
                   
@@ -719,6 +703,40 @@
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/rituchakra-story/" class="list-group-item">Rituchakra Story</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-shot/" class="list-group-item">The Shot</a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseland" data-parent="#accordion">
+                <div class="panel-heading" id="headerland">
+                  <h4 class="panel-title">
+                      land
+                    <span class="badge">7</span>
+                  </h4>
+                </div>
+            </a>
+            <div id="collapseland" class="panel-collapse collapse">
+              <div class="panel-body">
+                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/land/" class="list-group-item view-all">
+                View all</a>
+                <div class="list-group">
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/colyer/" class="list-group-item">Colyer Lake at Night</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/mornings-at-the-late/" class="list-group-item">Flamingo</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/golden-pond/" class="list-group-item">Golden Pond</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/oregon-desert/" class="list-group-item">Oregon Desert</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/autumn-fire/" class="list-group-item">Scape - Autumn Fire</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/fog/" class="list-group-item">Scape - Fog</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-stream/" class="list-group-item">The Stream</a>
                   
                 </div>
               </div>
@@ -760,6 +778,38 @@
           </div>
         
           <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseaction" data-parent="#accordion">
+                <div class="panel-heading" id="headeraction">
+                  <h4 class="panel-title">
+                      action
+                    <span class="badge">6</span>
+                  </h4>
+                </div>
+            </a>
+            <div id="collapseaction" class="panel-collapse collapse">
+              <div class="panel-body">
+                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/action/" class="list-group-item view-all">
+                View all</a>
+                <div class="list-group">
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/battle-lost/" class="list-group-item">Battle Lost</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/child/" class="list-group-item">Child</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/floor-x/" class="list-group-item">Hang On</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-fans/" class="list-group-item">The Fans</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-gymnast-1/" class="list-group-item">The Gymnast</a>
+                  
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-pep-talk/" class="list-group-item">The Pep Talk</a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsecolor" data-parent="#accordion">
                 <div class="panel-heading" id="headercolor">
                   <h4 class="panel-title">
@@ -785,38 +835,6 @@
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/orange/" class="list-group-item">Orange</a>
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/rodeo-clown/" class="list-group-item">Rodeo Clown</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseland" data-parent="#accordion">
-                <div class="panel-heading" id="headerland">
-                  <h4 class="panel-title">
-                      land
-                    <span class="badge">6</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapseland" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/land/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/blue-lake/" class="list-group-item">Blue Lake</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/golden-pond/" class="list-group-item">Golden Pond</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/oregon-desert/" class="list-group-item">Oregon Desert</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/autumn-fire/" class="list-group-item">Scape - Autumn Fire</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/fog/" class="list-group-item">Scape - Fog</a>
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/the-stream/" class="list-group-item">The Stream</a>
                   
                 </div>
               </div>
@@ -986,28 +1004,6 @@
           </div>
         
           <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseabstract" data-parent="#accordion">
-                <div class="panel-heading" id="headerabstract">
-                  <h4 class="panel-title">
-                      abstract
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapseabstract" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/abstract/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/color-1/" class="list-group-item">Color</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsedance" data-parent="#accordion">
                 <div class="panel-heading" id="headerdance">
                   <h4 class="panel-title">
@@ -1022,7 +1018,7 @@
                 View all</a>
                 <div class="list-group">
                   
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flaminco/" class="list-group-item">Flaminco</a>
+                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/flaminco/" class="list-group-item">Flamenco</a>
                   
                 </div>
               </div>
@@ -1045,28 +1041,6 @@
                 <div class="list-group">
                   
                     <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/elk/" class="list-group-item">Elk</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsescape" data-parent="#accordion">
-                <div class="panel-heading" id="headerscape">
-                  <h4 class="panel-title">
-                      scape
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsescape" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app//categories/scape/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="https://5f6fb5a2b444f52da2be16a1--jovial-liskov-b176a1.netlify.app/photos/blue-lake/" class="list-group-item">Blue Lake</a>
                   
                 </div>
               </div>

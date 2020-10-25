@@ -1,6 +1,6 @@
 ---
 title: Retuchakra - Blue
-image: https://res.cloudinary.com/rama-llama/image/upload/v1596654460/Blue_dance2_hhtkrm.jpg
+image: https://res.cloudinary.com/rama-llama/image/upload/v1603125815/Blue_dance2_hhtkrm_svipoa.jpg
 categories:
   - cultural
   - events

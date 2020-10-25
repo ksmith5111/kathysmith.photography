@@ -1,7 +1,7 @@
 ---
 title: BW Flowers
 image: >-
-  https://res.cloudinary.com/rama-llama/image/upload/v1580059970/BWFlowers-3_kixwjj.jpg
+  https://res.cloudinary.com/rama-llama/image/upload/v1603129266/BWFlowers-3_kixwjj_zvr5pe_uyggqt.jpg
 categories:
   - stills
   - flowers

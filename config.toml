@@ -100,13 +100,6 @@ website = "https://kathysmith.photography/"
       name = "Zoo"
       weight = 1
 
-
-  [[menu.main]]
-      parent = "stills"
-      url = "/categories/abstracts"
-      name = "Abstracts"
-      weight = 1
-
   [[menu.main]]
       parent = "stills"
       url = "/categories/flowers"
