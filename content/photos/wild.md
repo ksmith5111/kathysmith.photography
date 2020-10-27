@@ -7,7 +7,7 @@ title: Wild
     caption= "Water Birds" 
     class="no-photoswipe"
     link="/categories/waterbirds/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1587747206/The_Lake_tvywkk.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1603830600/Blue_Heron_on_the_Wing_cznnbs.jpg">}}
   
   {{<figure 
     caption="The Zoo"
