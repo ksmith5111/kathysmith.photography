@@ -13,7 +13,7 @@ title: Wild
     caption="The Zoo"
     class="no-photoswipe"
     link="/categories/zoo"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1603129640/Main_ofjmz3.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1588271831/Lepard_fxrwmp.jpg">}}
   {{<figure
     caption="Backyard Birds"
     class="no-photoswipe"
