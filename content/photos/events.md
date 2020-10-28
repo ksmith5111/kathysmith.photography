@@ -14,7 +14,7 @@ title: Events
     caption="Dance"
     class="no-photoswipe"
     link="/categories/dance/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/c_fit,h_327.09,w_581.33/v1603916637/The_Dancer_yzpd1c.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1603916637/The_Dancer_yzpd1c.jpg">}}
   
   {{<figure
     caption="Cultural Events"
