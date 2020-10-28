@@ -18,7 +18,7 @@ title: Wild
     caption="Backyard Birds"
     class="no-photoswipe"
     link="/categories/backyard-birds"
-    src="https://res.cloudinary.com/rama-llama/image/upload/c_limit,h_301.89,w_501.39/v1603838665/Birds_on_a_Wire_oy3vwa.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/c_limit,h_327.09,w_501.39/v1603838665/Birds_on_a_Wire_oy3vwa.jpg">}}
     {{<figure
     caption="Birds of Prey"
     class="no-photoswipe"
