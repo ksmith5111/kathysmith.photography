@@ -7,8 +7,7 @@ title: Events
     caption= "Sporting Events" 
     class="no-photoswipe"
     link="/categories/sports/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1583101449/Fans_nu22el.jpg"
-    >}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1583101449/Fans_nu22el.jpg">}}
   
   {{<figure 
     caption="Dance"
