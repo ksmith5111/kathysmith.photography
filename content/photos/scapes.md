@@ -16,7 +16,7 @@ title: Scapes
   {{<figure
     caption="Skyscapes"
     class="no-photoswipe"
-    link="/categories/sea"
+    link="/categories/sky"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1604261497/Mitchell_Oregon_night_sky_pm1vih.jpg">}}
      {{<figure 
     caption="Landscapes"
