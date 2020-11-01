@@ -19,5 +19,10 @@ title: Scapes
     class="no-photoswipe"
     link="/categories/sea"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/peter_iredale_wreck_mgrafb.jpg">}}
+  {{<figure
+    caption="Seascapes"
+    class="no-photoswipe"
+    link="/categories/sea"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/peter_iredale_wreck_mgrafb.jpg">}}
 
 {{</gallery >}}
