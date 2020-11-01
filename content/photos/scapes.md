@@ -14,10 +14,10 @@ title: Scapes
     link="/categories/sea"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/peter_iredale_wreck_mgrafb.jpg">}}
   {{<figure
-    caption="Seascapes"
+    caption="Skyscapes"
     class="no-photoswipe"
     link="/categories/sea"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059979/peter_iredale_wreck_mgrafb.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1604261497/Mitchell_Oregon_night_sky_pm1vih.jpg">}}
      {{<figure 
     caption="Landscapes"
     class="no-photoswipe"
