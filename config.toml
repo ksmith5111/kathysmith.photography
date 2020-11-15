@@ -51,23 +51,23 @@ website = "https://kathysmith.photography/"
       name = "People"
       weight = 1
 
-  [[menu.main]]
-      parent = "people"
-      name = "Black and White"
-      url = "/categories/bw"
-      weight = 1
+#  [[menu.main]]
+#      parent = "people"
+#      name = "Black and White"
+#      url = "/categories/bw"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "people"
-      name = "Color"
-      url = "/categories/color"
-      weight = 1
+#  [[menu.main]]
+#      parent = "people"
+#      name = "Color"
+#      url = "/categories/color"
+#      weight = 1
       
-   [[menu.main]]
-      parent = "people"
-      name = "Street"
-      url = "/categories/street"
-      weight = 1  
+#   [[menu.main]]
+#      parent = "people"
+#      name = "Street"
+#      url = "/categories/street"
+#      weight = 1  
 
     [[menu.main]]
       identifier = "scapes"
@@ -87,44 +87,43 @@ website = "https://kathysmith.photography/"
       name = "Wild"
       weight = 1
 
-   [[menu.main]]
-      parent = "wild"
-      url = "/categories/birds"
-      name = "Birds"
-      weight = 1
+#   [[menu.main]]
+#      parent = "wild"
+#      url = "/categories/birds"
+#      name = "Birds"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "wild"
-      url = "/categories/zoo"
-      name = "Zoo"
-      weight = 1
+#  [[menu.main]]
+#      parent = "wild"
+#      url = "/categories/zoo"
+#      name = "Zoo"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "stills"
-      url = "/categories/flowers"
-      name = "Flowers"
-      weight = 1
+#  [[menu.main]]
+#      parent = "stills"
+#      url = "/categories/flowers"
+#      name = "Flowers"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "stills"
-      url = "/categories/studio"
-      name = "Studio"
-      weight = 1
+#  [[menu.main]]
+#      parent = "stills"
+#      url = "/categories/studio"
+#      name = "Studio"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/land"
-      name = "Land"
-      weight = 1
+#  [[menu.main]]
+#      parent = "scapes"
+#      url = "/categories/land"
+#      name = "Land"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/sea"
-      name = "Sea"
-      weight = 1
+#  [[menu.main]]
+#      parent = "scapes"
+#      url = "/categories/sea"
+#      name = "Sea"
+#      weight = 1
 
-  [[menu.main]]
-      parent = "scapes"
-      url = "/categories/city"
-      name = "City"
-      weight = 1
+#      parent = "scapes"
+#      url = "/categories/city"
+#      name = "City"
+#      weight = 1
