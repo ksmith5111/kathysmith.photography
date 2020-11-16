@@ -31,7 +31,7 @@ title: Wild
   {{<figure
     caption="Exotic Birds"
     class="no-photoswipe"
-    link="/categories/outdoors"
+    link="/categories/exotic-birds"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1605568078/Beautiful_Blue_Bird-2_fwkq1h.jpg">}}  
     
 
