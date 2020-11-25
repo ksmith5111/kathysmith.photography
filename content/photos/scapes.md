@@ -22,6 +22,6 @@ title: Scapes
     caption="Landscapes"
     class="no-photoswipe"
     link="/categories/land"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1580059972/Oregon_Desert_anl9oo.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1603317301/Landscapes-4_jzis2t.jpg">}}
 
 {{</gallery >}}
