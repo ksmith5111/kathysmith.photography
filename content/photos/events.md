@@ -25,6 +25,6 @@ title: Events
     caption="Social Events"
     class="no-photoswipe"
     link="/categories/social/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1603057742/Silence_copy_jzmlho.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1606332390/Silence2_atg4yn.jpg">}}
 
 {{</gallery >}}
