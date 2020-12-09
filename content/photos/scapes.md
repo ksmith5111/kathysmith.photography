@@ -3,7 +3,7 @@ title: Scapes
 ---
 
 {{<gallery caption-effect="none">}}
-  {{<figure
+{{<figure
     caption= "Cityscapes"
     class="no-photoswipe"
     link="/categories/city/"
@@ -18,10 +18,16 @@ title: Scapes
     class="no-photoswipe"
     link="/categories/sky"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1604261497/Mitchell_Oregon_night_sky_pm1vih.jpg">}}
-     {{<figure 
+  {{<figure 
     caption="Landscapes"
     class="no-photoswipe"
     link="/categories/land"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1603317301/Landscapes-4_jzis2t.jpg">}}
+  {{<figure 
+    caption="Rural Scenes"
+    class="no-photoswipe"
+    link="/categories/rural-scenes"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1606504836/Golden_Fog_ey2z6x.jpg">}}
+    
 
 {{</gallery >}}
