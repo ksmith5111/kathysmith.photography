@@ -1,6 +1,6 @@
 ---
-title: "Deserted "
-image: https://res.cloudinary.com/rama-llama/image/upload/v1609185047/Deserted_czg8wu.jpg
+title: Silhouette
+image: https://res.cloudinary.com/rama-llama/image/upload/v1609188692/Silouette_zpykxo.jpg
 categories:
-  - rural-scenes
+  - exotic-birds
 ---
