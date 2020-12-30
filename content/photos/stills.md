@@ -14,6 +14,6 @@ title: Stills
     caption="Studio"
     class="no-photoswipe"
     link="/categories/studio/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1596654460/White_Horns_avecen.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1609341586/Horns_vnuqzk.jpg">}}
 
 {{</gallery >}}
