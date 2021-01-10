@@ -1,7 +1,7 @@
 ---
 title: How I did this
 ---
-
+A brief tutorial on photographing oil and water.  There are plenty of videos out there on this popular indoor activity especial during Covid.  But in my search for a more dementsional version of oil drops I found that each video lacked a step or two.  This is how my afternoon of trial and error resulted in something at getting closer to meeting my expectations.
 {{<gallery caption-effect="none">}}
   
   {{<figure 
