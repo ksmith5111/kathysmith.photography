@@ -6,6 +6,14 @@ A brief tutorial on photographing oil and water.  There are plenty of videos out
   
   {{<figure 
     class="no-photoswipe"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1610477974/Green_Oil_and_Water_ibxkv3.jpg">}}
+  
+{{</gallery >}}
+
+{{<gallery caption-effect="none">}}
+  
+  {{<figure 
+    class="no-photoswipe"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1609692777/Oil_and_Water_uss0jw.jpg">}}
   
 {{</gallery >}}
