@@ -19,7 +19,7 @@ title: Stills
     {{<figure 
     caption="Photographing a Freezing Bubble"
     class="no-photoswipe"
-    link="/categories/projects/"
+    link="/categories/project/"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1642883101/Frosted_Bubble_bx979w.jpg">}}
   
   
