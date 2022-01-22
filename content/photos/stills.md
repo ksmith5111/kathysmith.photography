@@ -17,10 +17,10 @@ title: Stills
     src="https://res.cloudinary.com/rama-llama/image/upload/v1609341586/Horns_vnuqzk.jpg">}}
   
     {{<figure 
-    caption="Flowers"
+    caption="Photographing a Freezing Bubble"
     class="no-photoswipe"
     link="/categories/flowers/"
-    src="https://res.cloudinary.com/rama-llama/image/upload/v1603125308/White_Zinnia_ksufjy_ohhsah.jpg">}}
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1642883101/Frosted_Bubble_bx979w.jpg">}}
   
   
 
