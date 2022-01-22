@@ -15,5 +15,11 @@ title: Stills
     class="no-photoswipe"
     link="/categories/studio/"
     src="https://res.cloudinary.com/rama-llama/image/upload/v1609341586/Horns_vnuqzk.jpg">}}
+  
+    {{<figure
+    caption="Studio"
+    class="no-photoswipe"
+    link="/categories/studio/"
+    src="https://res.cloudinary.com/rama-llama/image/upload/v1609341586/Horns_vnuqzk.jpg">}}
 
 {{</gallery >}}
