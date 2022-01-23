@@ -17,7 +17,7 @@ title: Stills
     src="https://res.cloudinary.com/rama-llama/image/upload/v1609341586/Horns_vnuqzk.jpg">}}
   
 {{<figure 
-    caption="Photographing a Freezing Bubble"
+    caption="DIY"
     class="no-photoswipe"
 <<<<<<< HEAD
 <<<<<<< HEAD
