@@ -19,15 +19,7 @@ title: Stills
 {{<figure 
     caption="DIY"
     class="no-photoswipe"
-<<<<<<< HEAD
-<<<<<<< HEAD
     link="/categories/projects/"
-=======
-    link="/categories/projects/"
->>>>>>> df3f5240b7a3a26ee0a4b4882d89d6a4a1aa8f05
-=======
-    link="/categories/projects/"
->>>>>>> 7753b1c9b1297ae5ef019c1b1bc8a065cb0c7f38
     src="https://res.cloudinary.com/rama-llama/image/upload/v1642883101/Frosted_Bubble_bx979w.jpg">}}
 
     
